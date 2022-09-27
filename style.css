@@ -1,0 +1,40 @@
+
+html {
+    background-color: rgb(38, 8, 44);
+}
+.list {
+    box-sizing: border-box; 
+    border: 10px solid black;
+    background-color: rgb(54, 33, 1);
+    padding: 20px;
+   
+}
+
+.header,
+.description,
+.unlist,
+.orlist {
+    border: 5px solid black;
+}
+
+.unlist,
+.orlist {
+    background-color: bisque;
+    padding: 15px;
+}
+.buttonindex {
+    background-color: plum;
+}
+.header {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: azure;
+
+}
+.description {
+    box-sizing: border-box;
+    background-color: blueviolet;
+    padding: 20px;
+  
+
+}
